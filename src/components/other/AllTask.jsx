@@ -9,7 +9,7 @@ const AllTask = () => {
       <div className="overflow-x-auto">
         <div className="mb-2 grid min-w-[34rem] grid-cols-[minmax(10rem,2fr)_repeat(4,minmax(6rem,1fr))] rounded bg-red-400 px-4 py-2">
           <h2 className="text-lg font-medium">Employee Name</h2>
-          <h3 className="text-center text-lg font-medium">New Task</h3>
+          <h3 className="text-center text-lg font-medium">New Tasks</h3>
           <h5 className="text-center text-lg font-medium">Active Task</h5>
           <h5 className="text-center text-lg font-medium">Completed</h5>
           <h5 className="text-center text-lg font-medium">Failed</h5>
